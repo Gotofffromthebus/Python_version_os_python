@@ -1,0 +1,4 @@
+OS info is 
+ uname_result(system='Darwin', node='123s-MacBook-Air.local', release='16.7.0', version='Darwin Kernel Version 16.7.0: Sun Jun  2 20:26:31 PDT 2019; root:xnu-3789.73.50~1/RELEASE_X86_64', machine='x86_64')
+
+Python version is 3.10.4 (v3.10.4:9d38120e33, Mar 23 2022, 17:29:05) [Clang 13.0.0 (clang-1300.0.29.30)] ('64bit', '')
